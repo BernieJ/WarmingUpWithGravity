@@ -1,0 +1,10 @@
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\bin\Debug\WarmingUpWithGravity.exe.config
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\bin\Debug\WarmingUpWithGravity.exe
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\bin\Debug\WarmingUpWithGravity.pdb
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\bin\Debug\System.ValueTuple.dll
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\bin\Debug\System.ValueTuple.xml
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\obj\Debug\WarmingUpWithGravity.csprojAssemblyReference.cache
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\obj\Debug\WarmingUpWithGravity.csproj.CoreCompileInputs.cache
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\obj\Debug\WarmingUpWithGravity.csproj.CopyComplete
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\obj\Debug\WarmingUpWithGravity.exe
+C:\Projects\code wars\WarmingUpWithGravity\WarmingUpWithGravity\obj\Debug\WarmingUpWithGravity.pdb
